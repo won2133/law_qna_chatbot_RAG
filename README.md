@@ -106,7 +106,7 @@
 ### validation
 * tokenizing_n_embedding.ipynb: 각 형태소 분석기 별로 토큰화하고 불용어를 정의하고 각 임베딩 모델로 임베딩
 * back_translation.ipynb: 질문을 역번역하고 샘플 만 개를 뽑아 저장
-* check_similarity_chatbot_result.ipynb: 역번역 질문을 이용하여 정답을 맞힌 개수를 확인. 각 단계 별로 후보들을 비교
+* check_search_result.ipynb: 역번역 질문을 이용하여 정답을 맞힌 개수를 확인. 각 단계 별로 후보들을 비교
 ### chatbot
 * polyglot-ko-1.3b-RAG-COT-ko.ipynb: 학습
 * polyglot-ko-1.3b-RAG-COT-ko_pipeline.ipynb: 추론, 하이브리드 검색 적용
